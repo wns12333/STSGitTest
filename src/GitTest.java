@@ -5,5 +5,6 @@ public class GitTest {
 	System.out.println("사용확인2");
 	System.out.println("사용확인2");
 	System.out.println("사용확인2");
+	System.out.println("github에서 다운받아 수정한 파일");
 	}
 }
